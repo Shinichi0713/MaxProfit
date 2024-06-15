@@ -1,5 +1,5 @@
 # MaxProfit
-´´´
+′′′′
 An array A consisting of N integers is given. It contains daily prices of a stock share for a period of N consecutive days. If a single share was bought on day P and sold on day Q, where 0 ≤ P ≤ Q < N, then the profit of such transaction is equal to A[Q] − A[P], provided that A[Q] ≥ A[P]. Otherwise, the transaction brings loss of A[P] − A[Q].
 
 For example, consider the following array A consisting of six elements such that:
@@ -33,4 +33,4 @@ Write an efficient algorithm for the following assumptions:
 N is an integer within the range [0..400,000];
 each element of array A is an integer within the range [0..200,000].
 
-´´´
+′′′′
