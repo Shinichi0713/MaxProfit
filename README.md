@@ -25,3 +25,4 @@ N is an integer within the range [0..400,000];
 each element of array A is an integer within the range [0..200,000].
 ```
 やりたいこと：株価の後日差のmaxを計算する
+![image](https://github.com/Shinichi0713/MaxProfit/assets/61480734/265fbb8c-77db-466f-9607-0c46023b6b87)
